@@ -1,0 +1,6 @@
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\bin\My First Challenge.dll.config
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\bin\My First Challenge.dll
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\bin\My First Challenge.pdb
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\obj\Debug\My First Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\obj\Debug\My First Challenge.dll
+C:\Users\Austin Chang\Documents\GitHub\Tech-Academy-Projects\My First Challenge\My First Challenge\obj\Debug\My First Challenge.pdb
