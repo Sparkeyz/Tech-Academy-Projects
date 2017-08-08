@@ -1,0 +1,6 @@
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+c:\Users\Austin Chang\Documents\Visual Studio 2017\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
