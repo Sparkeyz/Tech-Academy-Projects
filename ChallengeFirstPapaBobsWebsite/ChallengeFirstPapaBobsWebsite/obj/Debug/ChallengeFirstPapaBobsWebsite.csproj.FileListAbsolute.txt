@@ -1,0 +1,6 @@
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\bin\ChallengeFirstPapaBobsWebsite.dll.config
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\bin\ChallengeFirstPapaBobsWebsite.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\bin\ChallengeFirstPapaBobsWebsite.pdb
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\obj\Debug\ChallengeFirstPapaBobsWebsite.csprojResolveAssemblyReference.cache
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\obj\Debug\ChallengeFirstPapaBobsWebsite.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeFirstPapaBobsWebsite\ChallengeFirstPapaBobsWebsite\obj\Debug\ChallengeFirstPapaBobsWebsite.pdb
