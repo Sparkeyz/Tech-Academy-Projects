@@ -1,0 +1,6 @@
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\bin\ChallengeEpicSpyAssignment.dll.config
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\bin\ChallengeEpicSpyAssignment.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\bin\ChallengeEpicSpyAssignment.pdb
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\obj\Debug\ChallengeEpicSpyAssignment.csprojResolveAssemblyReference.cache
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\obj\Debug\ChallengeEpicSpyAssignment.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpyAssignment\ChallengeEpicSpyAssignment\obj\Debug\ChallengeEpicSpyAssignment.pdb
