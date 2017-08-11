@@ -17,6 +17,7 @@ namespace ChallengeEpicSpyAssignment
                 Calendar2.SelectedDate = DateTime.Now.Date.AddDays(14);
                 Calendar3.SelectedDate = DateTime.Now.Date.AddDays(21);
             }
+            Page.MaintainScrollPositionOnPostBack = true;
         }
 
         protected void AssignButton_Click(object sender, EventArgs e)
