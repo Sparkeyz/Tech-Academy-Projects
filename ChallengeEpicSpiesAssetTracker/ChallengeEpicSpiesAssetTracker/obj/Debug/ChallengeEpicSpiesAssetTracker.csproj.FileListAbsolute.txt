@@ -1,0 +1,6 @@
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll.config
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.pdb
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csprojResolveAssemblyReference.cache
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.pdb
