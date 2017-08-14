@@ -17,7 +17,7 @@ namespace MegaChallengeCasino
             {
                 string[] reels = new string[] { spin(), spin(), spin() };
                 displayImages(reels);
-                ViewState.Add("PlayerMoney", 5);
+                ViewState.Add("PlayerMoney", 100);
                 displayMoney();
             }
         }
