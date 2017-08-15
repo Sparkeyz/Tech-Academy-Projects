@@ -1,0 +1,6 @@
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll.config
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\bin\ChallengeHeroMonsterClassesPart1.pdb
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.csprojResolveAssemblyReference.cache
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.dll
+c:\users\austin chang\documents\visual studio 2017\Projects\ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1\obj\Debug\ChallengeHeroMonsterClassesPart1.pdb
